@@ -1,0 +1,1 @@
+# segmentation_of_toronto_data_coursera_capstone_assignment
